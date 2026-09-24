@@ -10,12 +10,13 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 <p aligh="center">
 <details>
  <summary>
-  $${\color{#ff1b2e} \space DNI}$$         
-  $${\color{#ff1b2e} \space [Art channel](https://x.com/ThattBlueOne) </div>
+  $${\color{#ff1b2e} \space DNI}$$        
  </summary>
  </p>
 <p aligh="center"> Far-right extremists (with the exception of anti-communists), sexists, animal abusers, paraphiles (pedophiles, necrophiles, zoophiles), devout believers and religious fanatics, supporters of war, AIsloppers
 </details>
+ 
+!$${\color{#ff1b2e} \space [Art channel](https://x.com/ThattBlueOne)
 
 <p alight="left">
 <img width="112" height="112" alt="blade-hsr" src="https://github.com/user-attachments/assets/bbf85d89-7e4d-4b77-95ff-434cce83f0bb" />
