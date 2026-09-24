@@ -11,9 +11,9 @@ $${\color{#ff1b2e} \space Hello!}$$
 <details>
  <summary>
  $${\color{#ff1b2e} \space DNI}$$
- <summary\>
+ </summary>
  </p>
 <p aligh="center">$${color\{#ff1b2e}\textbf{Far-right extremists (with the exception of anti-communists), sexists, animal abusers, paraphiles (pedophiles, necrophiles, zoophiles), devout believers and religious fanatics, supporters of war, and AIsloppers}}$$
-<\details>
+</details>
 
 
