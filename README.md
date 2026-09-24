@@ -8,5 +8,5 @@ $${\color{#ff1b2e} \space Hello!}$$
 </p>
 
 <p align="center">
- \space [Info] (https://t.me/PotzBl1tz)
+ [Info] (https://t.me/PotzBl1tz)
 </p>
