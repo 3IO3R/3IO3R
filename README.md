@@ -1,5 +1,6 @@
 <p align="center">
 </p>
+
 <p alight="center">
-<img wigth="400" height="225" alt="kmfdmwiget" scr="https://github.com/user-attachments/assets/a146a7bb-a618-400f-a78f-92299f86cabd" />
+<img wigth="400" height="225" alt="kmfdmwiget" scr="https://github.com/user-attachments/assets/0d0b8abd-bb7c-4831-bc0b-9367cf8df2f4" />
 </p>
