@@ -17,7 +17,7 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 </details>
 
 <p alight="left">
-<img width="200" height="100" alt="blade-blade-hsr" src="https://github.com/user-attachments/assets/41dd6d52-7527-4e6a-b35a-027a3e6a8dde" />
+<img width="250" height="150" alt="blade-blade-hsr" src="https://github.com/user-attachments/assets/41dd6d52-7527-4e6a-b35a-027a3e6a8dde" />
 </p>
 
 
