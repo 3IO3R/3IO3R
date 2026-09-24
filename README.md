@@ -9,7 +9,7 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 
 <p aligh="center">
 </details>
- </summary>
+ <summary>
   $${\color{#ff1b2e} \space DNI}$$        
  </summary>
  </p>
