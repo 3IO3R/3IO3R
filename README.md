@@ -8,11 +8,11 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 </p>
 
 <p aligh="center">
-<details>
+</details>
  </summary>
   $${\color{#ff1b2e} \space DNI}$$        
  <summary>
- </p>
+ <details
 <p aligh="center"> Far-right extremists (with the exception of anti-communists), sexists, animal abusers, paraphiles (pedophiles, necrophiles, zoophiles), devout believers and religious fanatics, supporters of war, AIsloppers
 </details>
 
