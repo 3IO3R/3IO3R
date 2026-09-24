@@ -8,7 +8,7 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 </p>
 
 <div aligh="center">
-<details>
+</details>
  </summary>
   $${\color{#ff1b2e} \space DNI}$$        
  <summary>
