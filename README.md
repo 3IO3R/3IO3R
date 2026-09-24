@@ -1,6 +1,6 @@
 
 <p align="center">
-$${\color{#d92f2f}hello!}$$
+$${\color{#ff1b2e}Cursed Hello!}$$
 </p>
 
 <p alight="center">
