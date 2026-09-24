@@ -4,5 +4,5 @@ hello!
 </p>
 
 <p alight="center">
-<img width="735" height="293" alt="photo_2026-09-24_17-59-15" src="https://github.com/user-attachments/assets/d4778df5-64d5-4247-8865-1625962f57a1" />
+<img width="1364" height="505" alt="photo_2026-09-24_18-07-08" src="https://github.com/user-attachments/assets/749ebfc6-c459-4a1a-8210-b1352d74aba5" />
 </p>
