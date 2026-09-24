@@ -10,7 +10,7 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 <div align="center">
 <details>
  <summary>
- $${\color{#ff1b2e}whole\space DNI}$$
+ $${\color{#ff1b2e} \space DNI}$$
  </summary>
 </p>
 <p aligh="center"> Far-right extremists (with the exception of anti-communists), sexists, animal abusers, paraphiles (pedophiles, necrophiles, zoophiles), devout believers and religious fanatics, supporters of war, AIsloppers
