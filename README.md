@@ -10,9 +10,11 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 <p aligh="center:>
 <details>
  <summary>
-  $${\color{#ff1b2e} \space DNI}$$         $${\color{#ff1b2e} \space [Art channel](https://x.com/ThattBlueOne)
+  $${\color{#ff1b2e} \space DNI}$$         
  </summary>
 </p>
+
+$${\color{#ff1b2e} \space [Art channel](https://x.com/ThattBlueOne)
  
 <p aligh="center"> Far-right extremists (with the exception of anti-communists), sexists, animal abusers, paraphiles (pedophiles, necrophiles, zoophiles), devout believers and religious fanatics, supporters of war, AIsloppers
 </details>
