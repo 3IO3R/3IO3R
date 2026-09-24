@@ -17,6 +17,8 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 </details>
 
 <p alight="centre">
+<detail>
+ <summary>
 $${\color{#ff1b2e} \space [Art public](https://X.com/ThattBlueOne) />
 
 <p alight="left">
