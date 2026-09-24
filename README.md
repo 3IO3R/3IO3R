@@ -1,3 +1,3 @@
 <p align="center">
-# <img width="624" height="623" alt="Снимок экрана 2026-08-21 030050" src="https://github.com/user-attachments/assets/89dae941-c9b8-4a87-be89-5e58adc45e41" />
+# <<img width="736" height="414" alt="photo_2026-09-24_15-28-16" src="https://github.com/user-attachments/assets/4140183f-d1a7-4367-b949-e360cd189990" />
 </p>
