@@ -1,8 +1,9 @@
 
 <p align="center">
-  1
+  67
 </p>
 
 <p alight="center">
-<img width="400" height="400" alt="kmfdmwiget" scr="https://github.com/user-attachments/assets/0d0b8abd-bb7c-4831-bc0b-9367cf8df2f4" />
+<img width="736" height="414" alt="mydei" src="https://github.com/user-attachments/assets/d8aa9c24-89e7-44b6-a3f0-8a93e5c399d4" />
+
 </p>
