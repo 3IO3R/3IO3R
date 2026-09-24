@@ -8,4 +8,5 @@ $${\color{#ff1b2e} \space Hello!}$$
 </p>
 
 <p align="center">
-$${\color{#ff1b2e} \space [Info](https://t.me.PotzBl1tz)
+$${\color{#ff1b2e} \space [Info](https://t.me/PotzBl1tz)$$
+</p>
