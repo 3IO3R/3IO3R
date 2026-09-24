@@ -17,7 +17,7 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 </details>
 
 <p alight="left">
-<img width="374" height="211" alt="blade-hsr-honkai-star-rail" src="https://github.com/user-attachments/assets/d415004e-5a3c-431f-a5a0-8ee9e954b83d" />
+<img width="400" height="300" alt="blade-blade-hsr" src="https://github.com/user-attachments/assets/41dd6d52-7527-4e6a-b35a-027a3e6a8dde" />
 </p>
 
 
