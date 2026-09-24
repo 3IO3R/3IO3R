@@ -1,9 +1,6 @@
 
 <p align="center">
-opa                     ╱|、
-                          (˚ˎ 。7  
-                           |、˜〵          
-                          じしˍ,)ノ
+hello!
 </p>
 
 <p alight="center">
