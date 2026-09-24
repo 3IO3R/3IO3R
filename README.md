@@ -1,5 +1,5 @@
 
-<p
+<p aligh="center">
 $${\color{#ff1b2e} \space Hello!}$$
 </p>
 
