@@ -17,7 +17,7 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 </details>
 
 <div alight="centre">
-[Art public] scr="hppts://X.com/ThattBlueOne"
+[Art public](hppts://X.com/ThattBlueOne) />
 
 <p alight="left">
 <img width="112" height="112" alt="blade-hsr" src="https://github.com/user-attachments/assets/bbf85d89-7e4d-4b77-95ff-434cce83f0bb" />
