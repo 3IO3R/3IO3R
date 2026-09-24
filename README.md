@@ -4,5 +4,5 @@ hello!
 </p>
 
 <p alight="center">
-<img width="700" height="350" alt="mydei" src="https://github.com/user-attachments/assets/d8aa9c24-89e7-44b6-a3f0-8a93e5c399d4" />
+<<img width="624" height="623" alt="Снимок экрана 2026-08-21 030050" src="https://github.com/user-attachments/assets/6dc02c1d-d15b-4be6-b97d-3d8130bf6b07" />
 </p>
