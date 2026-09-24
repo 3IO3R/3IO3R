@@ -1,3 +1,5 @@
 <p align="center">
-<img width="736" height="414" alt="photo_2026-09-24_15-28-16" src="https://github.com/user-attachments/assets/4140183f-d1a7-4367-b949-e360cd189990" />
+<gif https://github.com/user-attachments/assets/dc71544f-40bd-424b-94e3-c127d6893a47
+
+
 </p>
