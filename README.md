@@ -1,6 +1,6 @@
 
 <p align="center">
-$${\color{#ff1b2e}cursed \space Hello!}$$
+$${\color{#ff1b2e} \space Hello!}$$
 </p>
 
 <p alight="center">
