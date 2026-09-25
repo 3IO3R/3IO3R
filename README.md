@@ -21,6 +21,9 @@ Far-right political views (except anti-communists), sexists, animal abusers, par
 
 <p align="center">
 <img width="274" height="111" alt="blade-hsr-blade" src="https://github.com/user-attachments/assets/a5b011e6-399a-4caf-882e-ee953b1b9965" />
+</p>
+
+<p align="center">
 <img width="98" height="98" alt="blade-hsr-blade-kar" src="https://github.com/user-attachments/assets/c0f70868-655a-4867-8f9c-fd1bdd591ced" />
 </p>
 
