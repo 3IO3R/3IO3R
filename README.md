@@ -8,7 +8,7 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 </p>
 
 <div align="center">
-![Art channel](https://x.com/ThattBlueOne)
+\textbox[Art channel](https://x.com/ThattBlueOne)
 </div>
 
 <div align="center">
