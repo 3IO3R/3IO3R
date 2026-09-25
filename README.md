@@ -12,7 +12,7 @@ $${\color{#ff1b2e} \space Hello!💥}$$
   <summary>
    $${\color{#ff1b2e} \space Before \space interact}$$
   </summary>
-  Anger issues, a little nonchalant
+  Anger issues!!!
  </details>
  
 <div align="center">
