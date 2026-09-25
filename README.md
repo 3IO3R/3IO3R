@@ -16,7 +16,7 @@ $${\color{#ff1b2e} \space Free \space Your \space Hate \space -\space KMFDM}$$
  <summary>
   $${\color{#ff1b2e} \space DNI}$$
  </summary>
-Far-right political views (except anti-communists), sexists, animal abusers, paraphiles (pedophiles, necrophiles, zoophiles), devout believers and religious fanatics, supporters of war, AIsloppers
+Far-right political views (except anti-communists), sexists, animal abusers, paraphiles (pedophiles, necrophiles, zoophiles), devout believers and religious fanatics, supporters of war, AIsloppers, antis
 </details>
 
 <p align="center">
