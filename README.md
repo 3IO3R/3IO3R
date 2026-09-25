@@ -10,8 +10,7 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 <div align="center">
 <details>
  <summary>
-  $${\color{#ff1b2e} \space DNI}$$       
- </summary>
+  $${\color{#ff1b2e} \space DNI}$$</summary>
 $${\color{#ff1b2e} Far-right political views (except anti-communists), sexists, animal abusers, paraphiles (pedophiles, necrophiles, zoophiles), devout believers and religious fanatics, supporters of war, AIsloppers}}&&
 </details>
  </div>
