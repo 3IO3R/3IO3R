@@ -20,7 +20,7 @@ Far-right political views (except anti-communists), sexists, animal abusers, par
 </details>
 
 <p align="center">
-<img width="274" height="111" alt="blade-hsr-blade" src="https://github.com/user-attachments/assets/9ae1ba59-cd1f-429f-92a6-95281e819417" />
+<img width="198" height="198" alt="blade-honkai-star-rail" src="https://github.com/user-attachments/assets/ca425fc4-7cde-42e1-85cf-e8774de8e879" />
 </p>
 
 
