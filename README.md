@@ -8,6 +8,14 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 </p>
 
 <div align="center">
+ <details>
+  <summary>
+   $${\color{#ff1b2e} \space BEFORE INTERACT}$$
+  </summary>
+  Anger issues, a little nonchalant
+ </details>
+ 
+<div align="center">
 <details>
  <summary>
   $${\color{#ff1b2e} \space DNI}$$
