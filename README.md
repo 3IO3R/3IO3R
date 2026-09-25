@@ -24,7 +24,7 @@ Far-right political views (except anti-communists), sexists, animal abusers, par
 </p>
 
 <p align="center">
-❤️
+⁉️
 </p>
 
 
