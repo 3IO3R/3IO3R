@@ -10,7 +10,7 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 <div align="center">
 <details>
  <summary>
-  $${\color{#ff1b2e} \space DNI}$$
+  $${\color{#ff1b2e} \space DNI!!}$$
  </summary>
 Far-right political views (except anti-communists), sexists, animal abusers, paraphiles (pedophiles, necrophiles, zoophiles), devout believers and religious fanatics, supporters of war, AIsloppers
 </details>
@@ -20,7 +20,7 @@ Far-right political views (except anti-communists), sexists, animal abusers, par
   <summary>
    $${\color{#ff1b2e} \space More}$$
   </summary>
- ![Art channel](https://x.com/ThattBlueOne)
+ <a[Art channel](https://x.com/ThattBlueOne)
  </details>
 
 <p align="center">
