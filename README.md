@@ -1,6 +1,6 @@
 
 <p aligh="center">
-$${\color{#ff1b2e} \space Hello!💥}$$
+$${\color{#ff1b2e} \space Hello!💥}$$ $${\color{#ff1b2e}ᵏᶦᶰᶰ⤿}$$ 
 </p>
 
 <p aligh="center">
@@ -22,8 +22,6 @@ Far-right political views (except anti-communists), sexists, animal abusers, par
 <p align="center"> 
 <img width="274" height="111" alt="blade-hsr-blade" src="https://github.com/user-attachments/assets/a5b011e6-399a-4caf-882e-ee953b1b9965" />
 </p>
-
-$${\color{#ff1b2e}ᵏᶦᶰᶰ⤿}$$ 
 
 <p align="center">
 $${\color{#ff1b2e} \space Loading..}$$
