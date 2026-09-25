@@ -1,4 +1,4 @@
-
+<img width="112" height="112" alt="blade-hsr" src="https://github.com/user-attachments/assets/01b1edb7-f75b-42a5-9b4c-525752b2761b" /><img width="112" height="112" alt="blade-hsr" src="https://github.com/user-attachments/assets/a37e1264-c218-4d04-80a4-32afbd1b9b8a" />
 <p aligh="center">
 $${\color{#ff1b2e} \space Hello!💥}$$
 </p>
@@ -20,7 +20,7 @@ Far-right political views (except anti-communists), sexists, animal abusers, par
 </details>
 
 <p align="center">
-<img width="250" height="150" alt="blade-blade-hsr" src="https://github.com/user-attachments/assets/348f6207-f7c2-4c9d-98b8-585e232c1f80" />
+<img width="112" height="112" alt="blade-hsr" src="https://github.com/user-attachments/assets/c4a99eb9-bd7f-4aca-85cc-3e50b2e0ff5c" />
 </p>
 
 
