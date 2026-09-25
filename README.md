@@ -16,8 +16,6 @@ Far-right political views (except anti-communists), sexists, animal abusers, par
 </details>
  </div>
 
-[Art channel](https://x.com/ThattBlueOne)
-
 <p align="center">
 <img width="112" height="112" alt="blade-hsr" src="https://github.com/user-attachments/assets/bbf85d89-7e4d-4b77-95ff-434cce83f0bb" />
 </p>
