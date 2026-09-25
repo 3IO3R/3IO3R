@@ -8,10 +8,6 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 </p>
 
 <div align="center">
-\textbox[Art channel](https://x.com/ThattBlueOne)
-</div>
-
-<div align="center">
 <details>
  <summary>
   $${\color{#ff1b2e} \space DNI}$$
