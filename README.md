@@ -10,9 +10,9 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 <div align="center">
 <details>
  <summary>
-  $${\color{#ff1b2e} \space DNI}$$</summary><br>
-$\text{\color#ff6560}Far-right political views (except anti-communists), sexists, animal abusers,}$
-$\text{\color#ff6560}paraphiles (pedophiles, necrophiles, zoophiles), devout believers and religious fanatics, supporters of war, AIsloppers.}$
+  $${\color{#ff1b2e} \space DNI}$$
+ </summary>
+Far-right political views (except anti-communists), sexists, animal abusers, paraphiles (pedophiles, necrophiles, zoophiles), devout believers and religious fanatics, supporters of war, AIsloppers
 </details>
 
 <p align="center">
