@@ -19,9 +19,11 @@ $${\color{#ff1b2e} \space Free \space Your \space Hate \space -\space KMFDM}$$
 Far-right political views (except anti-communists), sexists, animal abusers, paraphiles (pedophiles, necrophiles, zoophiles), devout believers and religious fanatics, supporters of war, AIsloppers, antis
 </details>
 
-<p align="center"> $${\color{#ff1b2e}ᵏᶦᶰᶰ⤿}$$ 
+<p align="center"> 
 <img width="274" height="111" alt="blade-hsr-blade" src="https://github.com/user-attachments/assets/a5b011e6-399a-4caf-882e-ee953b1b9965" />
 </p>
+
+$${\color{#ff1b2e}ᵏᶦᶰᶰ⤿}$$ 
 
 <p align="center">
 $${\color{#ff1b2e} \space Loading..}$$
