@@ -8,7 +8,7 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 </p>
 
 <div align="center">
-$${\color{#ff1b2e} \space Free \space Your \space Hate \space - KMFDM}}$$
+$${\color{#ff1b2e} \space Free \space Your \space Hate \space - KMFDM}$$
 </div>
  
 <div align="center">
