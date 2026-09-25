@@ -8,10 +8,6 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 </p>
 
 <div align="center">
-<a href="https://x.com/ThattBlueOne" target="_blank"><b>Art channel&nbsp;&nbsp;&nbsp;
-</div>
-
-<div align="center">
 <details>
  <summary>
   $${\color{#ff1b2e} \space DNI}$$
@@ -19,6 +15,10 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 Far-right political views (except anti-communists), sexists, animal abusers, paraphiles (pedophiles, necrophiles, zoophiles), devout believers and religious fanatics, supporters of war, AIsloppers
 </details>
  </div>
+
+ <div align="center">
+<a href="https://x.com/ThattBlueOne" target="_blank"><b>Art channel&nbsp;&nbsp;&nbsp;
+</div>
 
 <p align="center">
 <img width="112" height="112" alt="blade-hsr" src="https://github.com/user-attachments/assets/bbf85d89-7e4d-4b77-95ff-434cce83f0bb" />
