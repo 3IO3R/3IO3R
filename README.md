@@ -10,7 +10,7 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 <div align="center">
  <details>
   <summary>
-   $${\color{#ff1b2e} \space BEFORE \space INTERACT}$$
+   $${\color{#ff1b2e} \space Before \space interact}$$
   </summary>
   Anger issues, a little nonchalant
  </details>
