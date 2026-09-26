@@ -25,10 +25,8 @@ Far-right political views (except anti-communists), sexists, animal abusers, par
 
 <p align="center">
  <details>
-  <summary><sub>
-   $${\color{#ff1b2e} \space More}$$
+  <summary><sub>$${\color{#ff1b2e} \space More}$$</summary>
    <a href="https://x.com/ThattBlueOne"><sub>Art channel<a/>
-  </summary>
  </details>
    </p>
 
