@@ -14,7 +14,7 @@ $${\color{#ff1b2e} \space Free \space Your \space Hate \space -\space KMFDM}$$
 <div align="center">
 <details>
  <summary>
-  $${\color{#ff1b2e} \space DNI}$$ 🗨 
+  $${\color{#ff1b2e} \space DNI}$$  
  </summary>
 Far-right political views (except anti-communists), sexists, animal abusers, paraphiles (pedophiles, necrophiles, zoophiles), devout believers and religious fanatics, supporters of war, antis, AIsloppers
 </details>
@@ -24,7 +24,13 @@ Far-right political views (except anti-communists), sexists, animal abusers, par
 </p>
 
 <p align="center">
-$${\color{#ff1b2e} \space Loading..}$$
+ <details>
+  <summary><sub>
+   $${\color{#ff1b2e} \space More}$$
+   <a href="https://x.com/ThattBlueOne"><sub>Art channel
+  </summary>
+ </details>
+
 </p>
 
 
