@@ -11,6 +11,15 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 $${\color{#ff1b2e} \space Free \space Your \space Hate \space -\space KMFDM}$$
 </p>
 
+<p align="center">
+ <details>
+  <summary>
+   $${\color{#ff1b2e} \space More}$$ 
+  </summary>
+   <a href="https://x.com/ThattBlueOne">Art channel<a/> <a href="https://zyuzya.atabook.org/">Atabook<a/>
+ </details>
+   </p>
+
 <div align="center">
 <details>
  <summary>
@@ -23,14 +32,6 @@ Far-right political views (except anti-communists), sexists, animal abusers, par
 <img width="274" height="111" alt="blade-hsr-blade" src="https://github.com/user-attachments/assets/a5b011e6-399a-4caf-882e-ee953b1b9965" />
 </p>
 
-<p align="center">
- <details>
-  <summary>
-   $${\color{#ff1b2e} \space More}$$ 
-  </summary>
-   <a href="https://x.com/ThattBlueOne">Art channel<a/> <a href="https://zyuzya.atabook.org/">Atabook<a/>
- </details>
-   </p>
 
 
 
