@@ -20,7 +20,7 @@ Far-right political views (except anti-communists), sexists, animal abusers, par
 </details>
 
 <p align="center"> 
-<img width="112" height="112" alt="subspace-subspace-phighting" src="https://github.com/user-attachments/assets/c5dff88f-7536-4d0d-aa42-82ef3337ca13" />
+<img width="498" height="498" alt="phighting-roblox" src="https://github.com/user-attachments/assets/a3bfdd8c-bc35-40ac-991b-745f6a2fc2e1" />
 </p>
 
 <p align="center">
