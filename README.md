@@ -20,7 +20,7 @@ Far-right political views (except anti-communists), sexists, animal abusers, par
 </details>
 
 <p align="center"> 
-<img width="374" height="210" alt="atychiphobia-phighting" src="https://github.com/user-attachments/assets/5e7ffcaf-7bc5-4ff6-9298-120a6b5b4ab4" />
+<img width="112" height="112" alt="subspace-subspace-phighting" src="https://github.com/user-attachments/assets/8775bfeb-9a55-49cc-8794-5c6dad363387" />
 </p>
 
 <p align="center">
