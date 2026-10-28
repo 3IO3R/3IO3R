@@ -4,7 +4,7 @@ $${\color{#ff1b2e} \space Hello!💥}$$
 </p>
 
 <p aligh="center">
-<img width="1364" height="505" alt="photo_2026-09-24_18-07-08" src="https://github.com/user-attachments/assets/7d24988f-17a1-4a0b-9d25-cfc5819d7a46" />
+<img width="1635" height="684" alt="IMG_20261028_222538" src="https://github.com/user-attachments/assets/de32f127-8920-4de9-aee7-584407fd1919" />
 </p>
 
 <p align="center">
