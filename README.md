@@ -20,7 +20,7 @@ Far-right political views (except anti-communists), sexists, animal abusers, par
 </details>
 
 <p align="center"> 
-<img width="420" height="420" alt="roblox-subspace-tripmine" src="https://github.com/user-attachments/assets/2d9f9525-36ff-4b07-996e-1844d50710a1" />
+<img width="112" height="112" alt="subspace-subspace-phighting" src="https://github.com/user-attachments/assets/01353262-4f95-4dc3-9222-e3cb8b8221a3" />
 </p>
 
 <p align="center">
