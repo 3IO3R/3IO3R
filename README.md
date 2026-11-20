@@ -1,6 +1,6 @@
 
 <p aligh="center">
-$${\color{#323fca} \space Hello!💥}$$ 
+$${\color{#1658ff} \space Hello!💥}$$ 
 </p>
 
 <p aligh="center">
@@ -8,13 +8,13 @@ $${\color{#323fca} \space Hello!💥}$$
 </p>
 
 <p align="center">
-$${\color{#323fca} \space Free \space Your \space Hate \space -\space KMFDM}$$ 
+$${\color{#1658ff} \space Free \space Your \space Hate \space -\space KMFDM}$$ 
 </p>
 
 <div align="center">
 <details>
  <summary>
-  $${\color{#323fca} \space DNI}$$  
+  $${\color{#1658ff} \space DNI}$$  
  </summary>
 Far-right political views (except anti-communists), sexists, animal abusers, paraphiles (pedophiles, necrophiles, zoophiles), devout believers and religious fanatics, supporters of war, antis, AIsloppers
 </details>
@@ -26,7 +26,7 @@ Far-right political views (except anti-communists), sexists, animal abusers, par
 <p align="center">
  <details>
   <summary> 
-   $${\color{#323fca} \space More}$$ 
+   $${\color{#1658ff} \space More}$$ 
   </summary>
    <a href="https://x.com/ThattBlueOne">Art channel<a/> <a href="https://zyuzya.atabook.org/">Atabook<a/>
  </details>
