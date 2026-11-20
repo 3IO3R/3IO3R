@@ -4,7 +4,7 @@ $${\color{#ff0800} \space Hello!💥}$$
 </p>
 
 <p aligh="center">
-<img width="1364" height="505" alt="photo_2026-09-24_18-07-08" src="https://github.com/user-attachments/assets/cc90041c-a93b-43d6-8625-208db907bedf" />
+<img width="2000" height="400" alt="Mastery_Banner_II_Hyperlaser" src="https://github.com/user-attachments/assets/fe68a660-7a5a-4889-93de-cb2e2fb4c4a0" />
 </p>
 
 <p align="center">
