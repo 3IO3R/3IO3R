@@ -1,6 +1,6 @@
 
 <p aligh="center">
-$${\color{#1658ff} \space Hello!💥}$$ 
+$${\color{#1658ff} \space Hello!💙}$$ 
 </p>
 
 <p aligh="center">
