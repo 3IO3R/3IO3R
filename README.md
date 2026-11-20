@@ -20,7 +20,7 @@ Far-right political views (except anti-communists), sexists, animal abusers, par
 </details>
 
 <p align="center"> 
-<img width="498" height="281" alt="phighting-hyperlaser" src="https://github.com/user-attachments/assets/1cac820c-cb1d-4841-86f9-282585dc9688" />
+<img width="249" height="140" alt="phighting-hyperlaser" src="https://github.com/user-attachments/assets/1cac820c-cb1d-4841-86f9-282585dc9688" />
 </p>
 
 <p align="center">
