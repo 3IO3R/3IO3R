@@ -7,10 +7,6 @@ $${\color{#1658ff} \space Hello!💙}$$
 <img width="2000" height="400" alt="IMG_20261120_183054" src="https://github.com/user-attachments/assets/ac590fa6-3609-41e5-80fb-ca8582151dac" />
 </p>
 
-<p align="center">
-$${\color{#1658ff} \space Free \space Your \space Hate \space -\space KMFDM}$$ 
-</p>
-
 <div align="center">
 <details>
  <summary>
