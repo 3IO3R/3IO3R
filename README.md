@@ -7,8 +7,6 @@ $${\color{#1658ff} \space Hello!💙}$$
 <img width="2000" height="400" alt="IMG_20261120_183054" src="https://github.com/user-attachments/assets/ac590fa6-3609-41e5-80fb-ca8582151dac" />
 </p>
 
-[![spotify-github-profile](https://open.spotify.com/track/4zyZaaIon8yIfrFdz7DwOE?si=4f5289bc4266495f)
-
 <div align="center">
 <details>
  <summary>
